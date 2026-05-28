@@ -1,2 +1,31 @@
+Mouse Logitech M235,Aksesori,120,250000
+Samsung Galaxy A54,Smartphone,60,4200000
+Keyboard Mechanical RGB,Aksesori,35,850000
+Monitor LG 24 inch,Monitor,20,2300000
+Headphone Sony WH-1000,Audio,15,3500000
+Flash Drive SanDisk 64GB,Storage,200,85000
+Laptop Lenovo IdeaPad,Laptop,30,6800000
+Charger USB-C 65W,Aksesori,90,175000
+SSD Samsung 500GB,Storage,55,950000
+Printer Epson L3210,Printer,25,2800000
+iPhone 13 128GB,Smartphone,18,9500000
+Router TP-Link Archer C6,Networking,40,650000
+Webcam Logitech C270,Aksesori,70,320000
+Hard Disk Seagate 1TB,Storage,45,780000
+Smart TV Samsung 43 Inch,Elektronik,12,5200000
+Tablet Xiaomi Pad 6,Tablet,28,4900000
+Speaker JBL Flip 6,Audio,22,2100000
+Kabel HDMI 2 Meter,Aksesori,150,75000
+Canon EOS 1500D,Kamera,10,7200000
+Laptop HP Pavilion,Laptop,27,8900000
+Mouse Razer DeathAdder,Aksesori,65,450000
+Smartwatch Xiaomi Band 8,Wearable,85,550000
+Monitor Samsung 27 Inch,Monitor,17,3100000
+Power Bank 20000mAh,Aksesori,95,300000
+AirPods Pro 2,Audio,20,4200000
+SSD Kingston 1TB,Storage,33,1450000
+Nintendo Switch OLED,Gaming,14,5800000
+Keyboard Logitech K120,Aksesori,110,180000
+Drone DJI Mini 3,Drone,8,8900000
 OPPO Reno 14,Smartphone,500,6000000
 Mouse ABC 50,Aksesori,45,50000
