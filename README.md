@@ -34,9 +34,7 @@ Statistik
 File Handling
 - Load data produk dari file TXT
 
-Struktur Data
-
-Program menggunakan Array Manual:
+Struktur Data: Program menggunakan Array Manual:
 
 java
 int[] id;
